@@ -1,27 +1,25 @@
-# vue-qq
+# vue-qqdialog
 
-> A Vue.js project
+> 利用vue-cli脚手架，vue-router路由实现的类似qq对话框[演示链接](https://ocean1509.github.io/vue-qqdialog/),会不断补充功能
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 环境安装，需要先全局安装vue-cli
+npm install vue-cli -g
+
+#从github上下载或克隆
+git clone git
+
+#依赖包安装
 npm install
 
-# serve with hot reload at localhost:8080
+#开发环境（localhost:8080）
 npm run dev
 
-# build for production with minification
+#发布代码
+
 npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
